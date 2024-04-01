@@ -1,0 +1,3 @@
+C:/Users/datan/OneDrive/Desktop/CSU/CSC450/Week 7/cmake-build-debug/CMakeFiles/Week_7.dir
+C:/Users/datan/OneDrive/Desktop/CSU/CSC450/Week 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/datan/OneDrive/Desktop/CSU/CSC450/Week 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
